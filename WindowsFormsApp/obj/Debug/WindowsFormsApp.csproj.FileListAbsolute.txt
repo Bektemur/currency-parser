@@ -1,0 +1,15 @@
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\bin\Debug\xNet.dll
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Bektemir\Desktop\БК\WindowsFormsApp\WindowsFormsApp\bin\Debug\HtmlAgilityPack.xml
